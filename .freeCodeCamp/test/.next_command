@@ -84,3 +84,4 @@ __vsc_prompt_cmd_original
 ls --color=auto
 ./insert_data.sh
 ./insert_data.sh
+./insert_data.sh
